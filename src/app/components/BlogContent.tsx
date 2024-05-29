@@ -1,8 +1,8 @@
 import React from 'react';
 import { Post } from '../../../types';
 import Link from 'next/link';
-import { urlFor } from '@/sanity/lib/client';
 import Image from 'next/image';
+import { urlFor } from '@/sanity/lib/client';
 
 // Define the Props interface to specify the type of posts prop
 interface Props {
@@ -65,9 +65,3 @@ const BlogContent = ({ posts }: Props) => {
 
 export default BlogContent;
 
-
-        </section>
-    );
-}
-
-export default BlogContent;
