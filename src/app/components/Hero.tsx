@@ -1,20 +1,3 @@
-// import React from 'react';
-// import Image from 'next/image'
-
-// const Hero = () => {
-//     return (
-//         <div className='w-full max-h-screen'>
-//          <img src={"/Images/bannerImg.png"} alt="Hero Image" className="w-full max-h-screen object-contain"/>
-//           <div className="w-full h-full top-0 text-start bg-black/60 absolute object-cover flex flex-col justify-center mx-auto lg:pt-40 lg:m-18 items-center text-white">
-//             <h2 className='text-6xllg:text-[110px] font-bold '>TAYLOR SMITH</h2>
-//             <text className='text-xl md:text-2xl m-4 lg:text-5xl font-semibold md:m-6'>TRAVELLER , PHOTOGRAPHER</text>
-//             </div>  
-//         </div>
-//     );
-// }
-
-// export default Hero;
-
 import React from 'react';
 
 const Hero = () => {
