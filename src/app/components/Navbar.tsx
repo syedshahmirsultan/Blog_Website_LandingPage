@@ -14,7 +14,7 @@ const Navbar = () => {
     ];
 
     return (
-        <section className='bg-white h-20 shadow-md top-0 sticky w-full backdrop-blur-2xl transition-colors z-50'>
+        <section className='bg-white h-20 drop-shadow-lg top-0 sticky w-full backdrop-blur-3xl transition-colors z-50'>
             <div className='flex justify-between w-full'>
                 <div>
                     {/* Logo component with title "BLOGGERS" */}
