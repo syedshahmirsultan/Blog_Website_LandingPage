@@ -1,6 +1,6 @@
 # 📝 Blog Website Landing Page
 
-This is a simple landing page for a blog website. This page serves as the entry point for visitors to explore the content on the blog website.
+This is a simple responsive landing page for a blog website. This page serves as the entry point for visitors to explore the content on the blog website.
 
 ## Technologies Used:
 
